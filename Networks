@@ -30,4 +30,37 @@ Networks:-
 29) Ethical Hacking - Accessing the unauthorized system with written statement
 30) Web application penetration testing
 31) Web Server - web page - web applicaton - web site
-32) 
+32) Encryption
+
+
+Career Fields:-
+1) Offensive (attacker) "RED TEAM"
+2) Defensive (Security operation center- SOC)  "BLUE TEAM"
+3) Both Offensive and Defensive "PURPLE TEAM"
+
+
+Types of Hackers:-
+1) White HAT hackers (Known architecture- blue print of entire web application)
+2) Black HAT hackers (Without autherization) 
+3) Grey HAT hackers (both white hat and black hat)
+4) Script kiddies (knoob)
+5) Hacktivism (Social causes)
+6) State Hackers (Work for Government)
+
+
+CIA:-
+1) Confidentiality
+2) Integrity - (Originality)
+3) Availability
+
+
+Autehntication:-
+    To verify Someone's identity
+    1) Something You Know
+    2) Something You Have
+
+
+Autherization (Access control):- 
+    Accessing someone's data with permission
+
+
