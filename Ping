@@ -1,0 +1,10 @@
+=>    ping mkce.ac.in -n 4
+      identify the ip address of the particular web page
+
+
+cisco packet tracer
+1) wire types
+      `i) Cross over - connect the same devices
+      `ii) Straight through - connect with different devices
+      `iii) cerial cable  -  to connect the two "routers"(sent package from one area to another area)
+
