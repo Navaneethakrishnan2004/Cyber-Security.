@@ -8,7 +8,19 @@ cisco packet tracer
       `ii) Straight through - connect with different devices
       `iii) cerial cable  -  to connect the two "routers"(sent package from one area to another area)
 
+Network connection in cisco tool:-
+      `i) Straight through - to connect different items.
+      `ii) Cross-Over   -  to connect the same items.
+
 
 Command:-
       1) "tracert" - to find how many ip's are between start and end.
-      2)
+
+
+
+DHCP- DHCP stands for Dynamic Host Configuration Protocol. This protocol is used by clients/servers to automatically 
+      provide an IP (Internet Protocol) host with their IP address, as well as other configuration information like 
+      subnet mask, default gateway.
+
+DNS - A Domain Name System (DNS) turns domain names into IP addresses, which allow browsers to get to websites
+      and other internet resources.
