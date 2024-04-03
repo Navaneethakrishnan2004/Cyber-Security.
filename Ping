@@ -8,3 +8,7 @@ cisco packet tracer
       `ii) Straight through - connect with different devices
       `iii) cerial cable  -  to connect the two "routers"(sent package from one area to another area)
 
+
+Command:-
+      1) "tracert" - to find how many ip's are between start and end.
+      2)
