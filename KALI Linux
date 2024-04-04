@@ -1,3 +1,7 @@
   1) "ip a" - is used to check the ip address in KALI
   2) NAT - Network Address Translation
-  3) 
+
+
+Filter- wireshark
+
+1) ip.addr==192.168.137.1
