@@ -1,0 +1,13 @@
+1) "Where Notepad" -  this is used to find the directory path of the particular file.. eg., here the notepad path is finded by the command.(cmd)
+2) " dir " - (cmd)
+3) " ls "  - (ps)
+4) "echo "test" > file " - this is to create a file in linux (ps)
+5) "cat ./file " - this is to print the file (ps)
+6) "more ./file " - this is to print the file in (cmd)
+7) " mkdir " - to create the folder in both (cmd and ps) ,... 'mkdir'  - make directory.
+8)  " mv " - is to move the file in both ( cmd and ps)
+9) " cp " -  is to copy the file in both ( cmd and ps)
+10) " python -m http.server 80 " - to share the file using python server to someone using IPv4 address
+11) "dl" - is used to delete the file (cmd)
+12) "rm" - is used to remove the file (ps)
+
