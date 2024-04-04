@@ -1,5 +1,6 @@
-=>    ping mkce.ac.in -n 4
-      identify the ip address of the particular web page
+=>    ping mkce.ac.in -n 4 (windows)
+=>    ping mkce.ac.in -c 4 (linux)
+       identify the ip address of the particular web page
 
 
 cisco packet tracer
