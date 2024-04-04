@@ -64,3 +64,17 @@ Autherization (Access control):-
     Accessing someone's data with permission
 
 
+
+VPN - making connection between client and server (VPN encryrt and decrypt the message)
+----------------VPN--------------
+   CLIENT <-----------> SERVER  |
+----------------VPN--------------
+
+Encryption - Plain Text to Cipher Text
+Decryption - Cipher Text to Plain Text
+
+Symmetric Encryption - Single key ( lock and unlock using same key, like door locker)
+Asymmetric Encryption - Two key (Public key and Private key(public key is to share the file using encryption and user can user private key)
+
+
+PROXY - 
