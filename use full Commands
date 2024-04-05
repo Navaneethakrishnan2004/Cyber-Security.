@@ -11,3 +11,18 @@
 11) "dl" - is used to delete the file (cmd)
 12) "rm" - is used to remove the file (ps)
 
+
+*Important 
+*//
+
+PRODUCTION ENVIRONMENT -  Live Websites / Web app
+Staging Environment - Actual Copy of production
+QA Environment  -  Test Build
+
+Client Request ----------------------> Server Response ---> DB
+HTTP METHODS                             RESPONSE CODE
+GET                                          1xx - Informational
+POST                                         2xx - OK
+PUT                                          3xx - Redirection
+OPTIONS                                      4xx - Client-Side error
+DELETE                                       5xx - Server-Side error           // *
