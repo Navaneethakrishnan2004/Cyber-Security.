@@ -88,4 +88,13 @@ Top 10 Vulnerabilities
 "* https://owasp.org/www-project-top-ten/  *"
 
 CORS -  Cross Origin Resource Sharing
-HSTS -  HTTP Strict Transport Security 
+HSTS -  HTTP Strict Transport Security
+
+
+
+Authentication Vulnerability:-
+
+
+
+
+PATH / DIRECTORY TRAVERSAL:-
