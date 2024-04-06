@@ -1,0 +1,91 @@
+Vulnerability Assesment and Penetration Testing (VAPT)
+  VA - Process of identifying, Quantifying and prioting Vulnerabilities within a system, network, application or organaization
+  CIA- 
+    risk matrix
+    2 types:
+ High priority - likely would & impact
+
+
+Vulnerability Assesment process(4)
+` Assest discovery
+` Vulnerability scanning
+` Vulnerability Assesment
+` Vulnerability remidiation
+
+
+CVVS ( common Vulnerability scoring system )
+Scalar matricks
+none     *0
+low      0.1-3.9
+medium   4.0-6.9
+high     7.0-8.9
+critical 9.0-10.0
+
+
+Vulnerability Scanner types:-
+1) Data Vuln. scanner
+2) Network Vuln.scanner
+3) Web application Vuln.scanner
+4) Host-based Vuln.Scanner
+5) API- based Vuln.scanner
+6) Cloud- based Vuln.scanner
+
+
+
+Cyber security terms:-
+1) Policy      -   to regulate/control what to be done and how to be done(for governance)
+2) Procedure   -   step by step guide how to follow the policy
+3) Standard    -   
+4) Regulations -  its a government based rules (GDPR)
+
+
+Benefits: 
+Identify security Weakness before exploitation
+Prioritizes remidation efforts based on risk severity
+supports compilance with regulations and standards
+improves overall security posture
+provides actionable recommendation
+
+
+Drawbacks:
+Resource intensive
+False Positives
+False Negatives
+Limited Scopes
+
+
+
+Six-Process of hacking in PENETRATION TESTING
+1) Information gathering
+2) Threat Modelling
+3) Vulnerability Analysis
+4) Exploitation
+5) Post-Exploitation
+6) Reporting
+
+
+5 faces of PENETRATION TESTING:
+1) Information gathering
+2) Scaning
+3) Gaining Access
+4) Maintaining Access - persistance
+5) Clearing Tracks
+
+
+Types of penetration testing:-
+1) Application
+2) Network
+3) Physical
+4) IOT / Mobile
+
+          ` Internal tesing  - White Box Testing
+          `` External tesing  - Black Box Testing
+
+
+
+OWASP:-
+Top 10 Vulnerabilities
+"* https://owasp.org/www-project-top-ten/  *"
+
+CORS -  Cross Origin Resource Sharing
+HSTS -  HTTP Strict Transport Security 
