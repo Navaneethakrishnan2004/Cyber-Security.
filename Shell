@@ -1,4 +1,4 @@
 #3 types of SHELL
-1) Web shell
-2) Bind shell
-3) Reverse Shell    -    revshells.com
+1) Web shell      -  browser
+2) Bind shell     -  Process/Service/Port combine
+3) Reverse Shell  -  User Interaction  (revshells.com)
