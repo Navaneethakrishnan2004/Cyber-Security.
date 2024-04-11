@@ -38,4 +38,25 @@ cat targets.txt     --> to print the data
 
 cat targets.txt | cut -d ' ' -f 1 >  ips    ---> this is used to cut the data only with ip
 cat ips   --> this is to print the edited data of targets.txt
+nmap 192.168.85.130 -p- -Pn > openports.txt
+cat openports.txt
+nmap $target -p1-65535 --min-rate=3000 -v -oN openports.txt
+nmap $target -p21,22,80 -A --min-rate=3000 -v -oN openservices.txt
+
+TOOLS:
+1)FTP:
+ftp $target
+        username: anonymous password:  (enter)
+get filename.txt - to download the file
+quit - to quit the ftp login
+
+2) wuff
+3) ffuf
+4) dirb
+5) gobuster
+
+NSE - nmap scripting engine
+
+locate php-reverse - file location and it generate the url ro create php file
+  and then copy the url and createw a php file to access the users account , when we upload a file in file upload vulnerabilities, when they access the file we can get a access.
 
