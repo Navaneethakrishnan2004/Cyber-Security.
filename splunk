@@ -1,0 +1,34 @@
+Vm ware- 
+ip link set dev ens33 up
+dhclient -v ens33
+
+cmd
+ssh root@192.168.85.130
+
+splunt default path where it is saved:
+/opt/splunkforwarder/bin#
+ cd opt
+ ls
+online-course-registration.zip         splunkforwarder
+ cd splunkforwarder/
+ ls
+bin----->use bin
+cmake
+copyright.txt
+etc
+include
+lib
+license-eula.txt
+openssl
+README-splunk.txt
+share
+splunkforwarder-9.2.1-78803f08aabb-linux-2.6-x86_64-manifest
+swidtag
+var
+
+cd bin 
+ls
+
+./ splunk status
+-----> active 
+./splunk add forward-server 172.19.192.1:9997
