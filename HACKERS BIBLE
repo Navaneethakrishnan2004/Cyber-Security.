@@ -16,3 +16,28 @@ IR team will follow NIST Cybersecurity framework ( https://www.dell.com/wp-uploa
      iii' DETECT
      iv'  RESPOND
      v'   RECOVER
+
+
+DLP Tool - Data Loss Prevention (DLP)
+IPS - Intrusion Prevention System
+IDS - Intrusion Detction System
+
+
+Firewall Services:
+i)   Packet filtering
+ii)  Stateful packet inspection
+iii) Proxying
+iv)  Network Address Translation
+
+
+HIDS - HOST BASED INTRUSION DETECTION SYSTEM
+NIDS - NETWORK BASED INTRUSION DETECTION SYSTEM
+
+
+Types of mobile device Security:
+1) CASB 
+2) Endpoint Protection
+3) VPN
+4) Secure Web Gateway
+5) Email Security
+6) Mobile Device Management
