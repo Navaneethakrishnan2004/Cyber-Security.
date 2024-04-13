@@ -8,3 +8,11 @@ SPLUNK - helps to cyber security in defence
  |-> splunk forwadar 
  |-> ssh (secure shell) - remote access. ( sending a file with asymmetric encryption)
 they   send it to incident response(IR team)
+
+
+IR team will follow NIST Cybersecurity framework
+     i'   IDENTIFY
+     ii'  PROTECT
+     iii' DETECT
+     iv'  RESPOND
+     v'   RECOVER
